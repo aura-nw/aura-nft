@@ -9,7 +9,7 @@ SLEEP_TIME="15s"
 CODE_ID="$1"
 
 INIT="{
-	\"cw20_address\":\"aura16kf53x8kywy6l3hd7tlde0knmnqyhx3ckemcvl0lfsgmuwfehl7sxw5lzf\", 
+	\"cw20_address\":\"aura1e30u7tkfmq9fueyuwtmnep3wl8rrdcj2gusvylsruzpn7cfaavtqhx76sz\", 
 	\"max_tokens\":100, 
 	\"name\":\"Aura NFT Test Token\", 
 	\"owner\":\"$(aurad keys show $ACCOUNT -a)\", 
